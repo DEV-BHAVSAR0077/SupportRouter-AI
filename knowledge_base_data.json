@@ -1,0 +1,802 @@
+[
+  {
+    "content": "Webential offers comprehensive web development services including custom website design, responsive layouts, e-commerce solutions with payment gateway integration, and progressive web applications. Our pricing typically ranges from $5,000 to $50,000 depending on project complexity, number of pages, and required features.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "pricing, web development, services"
+    }
+  },
+  {
+    "content": "For technical support, our team is available Monday through Friday from 9:00 AM to 6:00 PM EST. Average response time is 2-4 hours for critical issues and 24 hours for non-critical matters. We provide 24/7 emergency support for enterprise clients with SLA agreements. You can reach us at support@webential.com or through our support portal.",
+    "metadata": {
+      "category": "support",
+      "department": "Technical Support",
+      "tags": "hours, availability, response time"
+    }
+  },
+  {
+    "content": "Payment terms for new projects: 50% upfront deposit required to begin work, 25% due at project milestone completion (typically mid-project), and final 25% upon project delivery and client approval. We accept major credit cards (Visa, Mastercard, AmEx), ACH bank transfers, wire transfers, and PayPal. Net 30 payment terms are available for established clients with approved credit.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "payment, terms, methods"
+    }
+  },
+  {
+    "content": "Webential is currently hiring for multiple positions: Senior Full Stack Developers (React/Node.js experience required), UI/UX Designers with Figma expertise, Digital Marketing Specialists with SEO/SEM background, and Project Managers with Agile certification. We offer competitive salaries ranging from $60,000 to $120,000 based on experience, comprehensive health benefits, 401k matching, flexible remote work options, and professional development budget.",
+    "metadata": {
+      "category": "careers",
+      "department": "HR",
+      "tags": "jobs, hiring, benefits, positions"
+    }
+  },
+  {
+    "content": "Our refund policy allows for a full refund if requested within 14 days of project initiation with no substantial work completed. After work begins, refunds are prorated based on completed project milestones and deliverables. For ongoing services and subscriptions, cancellation must be provided 30 days in advance. No refunds are provided for completed work or delivered assets.",
+    "metadata": {
+      "category": "policy",
+      "department": "Customer Service",
+      "tags": "refund, cancellation, policy"
+    }
+  },
+  {
+    "content": "Website hosting packages: Basic plan at $29/month includes 10GB storage, 100GB bandwidth, SSL certificate, and daily backups. Professional plan at $79/month offers 50GB storage, unlimited bandwidth, premium SSL, CDN integration, and priority support. Enterprise plan at $199/month provides unlimited storage, dedicated server resources, advanced security, and 24/7 monitoring.",
+    "metadata": {
+      "category": "services",
+      "department": "Technical Support",
+      "tags": "hosting, pricing, plans"
+    }
+  },
+  {
+    "content": "SEO services include comprehensive site audit, keyword research and strategy, on-page optimization, technical SEO improvements, content optimization, local SEO setup, and monthly reporting. Pricing starts at $1,500/month for basic packages and scales based on website size and competitiveness. Initial setup fee of $2,000 covers audit and strategy development.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "SEO, marketing, pricing"
+    }
+  },
+  {
+    "content": "Typical website development timeline: Discovery and planning (1-2 weeks), design mockups and revisions (2-3 weeks), development and coding (4-6 weeks), testing and quality assurance (1-2 weeks), client review and final revisions (1 week), launch and deployment (1 week). Total project duration typically 10-15 weeks for standard business websites.",
+    "metadata": {
+      "category": "process",
+      "department": "Sales",
+      "tags": "timeline, process, development"
+    }
+  },
+  {
+    "content": "Common technical issues and solutions: Site downtime - check hosting status page first, then contact support. Slow loading - clear browser cache and check internet connection. Login issues - verify credentials and try password reset. Email not working - check spam folder and verify email settings. For critical issues affecting business operations, use our emergency hotline.",
+    "metadata": {
+      "category": "troubleshooting",
+      "department": "Technical Support",
+      "tags": "issues, solutions, troubleshooting"
+    }
+  },
+  {
+    "content": "Website maintenance packages: Basic at $199/month includes security updates, plugin updates, daily backups, uptime monitoring, and monthly reports. Premium at $499/month adds content updates (up to 5 hours), performance optimization, SEO monitoring, and priority support. Enterprise custom packages available for high-traffic sites.",
+    "metadata": {
+      "category": "services",
+      "department": "Billing",
+      "tags": "maintenance, pricing, ongoing"
+    }
+  },
+  {
+    "content": "E-commerce specific features: secure payment processing (Stripe, PayPal integration), inventory management system, order tracking, customer account portal, automated email notifications, shipping calculator integration, coupon and discount codes, product reviews and ratings, abandoned cart recovery, and analytics dashboard.",
+    "metadata": {
+      "category": "features",
+      "department": "Sales",
+      "tags": "ecommerce, features, capabilities"
+    }
+  },
+  {
+    "content": "Client onboarding process: Initial consultation call to discuss requirements, proposal and quote delivery within 3 business days, contract signing and deposit payment, project kickoff meeting with full team, design approval process with up to 3 revision rounds, development with weekly progress updates, staging site review, final approval and launch, 30-day post-launch support period included.",
+    "metadata": {
+      "category": "process",
+      "department": "Customer Service",
+      "tags": "onboarding, process, workflow"
+    }
+  },
+  {
+    "content": "Our content management systems: We primarily work with WordPress (most popular, great for blogs and business sites), Shopify (best for e-commerce), and custom React/Next.js solutions (for complex applications). All platforms include training documentation, video tutorials, and 2 hours of training sessions. Additional training available at $150/hour.",
+    "metadata": {
+      "category": "technology",
+      "department": "Technical Support",
+      "tags": "CMS, platforms, training"
+    }
+  },
+  {
+    "content": "Partnership opportunities: We collaborate with agencies, freelancers, and complementary service providers through our referral program (15% commission), white-label solutions for agencies, and strategic partnerships. Contact our business development team at partnerships@webential.com to discuss opportunities.",
+    "metadata": {
+      "category": "partnerships",
+      "department": "General Inquiry",
+      "tags": "partnerships, collaboration, referral"
+    }
+  },
+  {
+    "content": "Security measures: All websites include SSL certificates, regular security updates, malware scanning, firewall protection, secure hosting environment, regular backups, and GDPR-compliant data handling. Additional security audits and penetration testing available for enterprise clients. We maintain SOC 2 Type II compliance for our infrastructure.",
+    "metadata": {
+      "category": "security",
+      "department": "Technical Support",
+      "tags": "security, compliance, protection"
+    }
+  },
+  {
+    "content": "Mobile app development: We develop native iOS and Android applications, cross-platform solutions using React Native or Flutter, and progressive web apps. Pricing starts at $25,000 for basic apps and ranges to $100,000+ for complex applications with backend integration, real-time features, and advanced functionality. Development timeline typically 3-6 months.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "mobile, apps, development"
+    }
+  },
+  {
+    "content": "Support ticket priorities: P1 Critical (site down, security breach) - 1 hour response, 4 hour resolution target. P2 High (major functionality broken) - 4 hour response, 24 hour resolution. P3 Medium (minor issues, non-urgent bugs) - 24 hour response, 72 hour resolution. P4 Low (questions, enhancement requests) - 48 hour response, next sprint planning.",
+    "metadata": {
+      "category": "support",
+      "department": "Technical Support",
+      "tags": "SLA, response time, priorities"
+    }
+  },
+  {
+    "content": "Invoice and billing questions: Invoices are sent via email within 24 hours of project milestones or monthly for retainer clients. Payment due within 15 days of invoice date. Late payments incur 1.5% monthly interest charge. For billing disputes, contact billing@webential.com with invoice number. We provide detailed time tracking and expense reports upon request.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "invoices, payment, disputes"
+    }
+  },
+  {
+    "content": "Performance optimization services: We provide comprehensive site speed optimization including image compression, code minification, lazy loading implementation, browser caching setup, CDN configuration, database optimization, and server-side improvements. Typical performance improvements of 40-60% load time reduction. One-time optimization fee starts at $1,500.",
+    "metadata": {
+      "category": "services",
+      "department": "Technical Support",
+      "tags": "performance, optimization, speed"
+    }
+  },
+  {
+    "content": "Career development at Webential: We offer annual professional development stipend of $2,000 per employee, conference attendance support, online course subscriptions (Udemy, Pluralsight), mentorship programs, quarterly team building events, and clear career progression paths. Apply for positions through our careers page or email resume to careers@webential.com.",
+    "metadata": {
+      "category": "careers",
+      "department": "HR",
+      "tags": "development, benefits, culture"
+    }
+  },
+  {
+    "content": "Webential provides custom enterprise software solutions tailored to business workflows, including CRM systems, ERP integrations, internal dashboards, and automation tools. Enterprise project pricing starts at $40,000 and varies based on integrations and scalability requirements.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "enterprise, software, pricing"
+    }
+  },
+  {
+    "content": "Our sales consultation process includes requirement gathering, technical feasibility analysis, cost estimation, and timeline planning. Initial consultations are free and typically last 30–45 minutes.",
+    "metadata": {
+      "category": "process",
+      "department": "Sales",
+      "tags": "consultation, sales process, planning"
+    }
+  },
+  {
+    "content": "Webential offers UI/UX design services including wireframing, prototyping, usability testing, and design systems. Design-only projects start at $3,000 depending on scope and revisions.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "UI UX, design, pricing"
+    }
+  },
+  {
+    "content": "Our technical support team assists with website downtime, server configuration issues, CMS errors, plugin conflicts, and deployment failures. Support requests can be submitted through the client portal.",
+    "metadata": {
+      "category": "support",
+      "department": "Technical Support",
+      "tags": "technical issues, support, troubleshooting"
+    }
+  },
+  {
+    "content": "We provide website backup restoration services in case of data loss or security incidents. Backups are stored securely and can be restored within 2–6 hours depending on site size.",
+    "metadata": {
+      "category": "recovery",
+      "department": "Technical Support",
+      "tags": "backup, recovery, data"
+    }
+  },
+  {
+    "content": "Webential supports server migrations including shared hosting to VPS, VPS to cloud, and on-premise to AWS or Azure environments with minimal downtime.",
+    "metadata": {
+      "category": "services",
+      "department": "Technical Support",
+      "tags": "server migration, cloud, hosting"
+    }
+  },
+  {
+    "content": "Customer service handles general inquiries, feedback, complaints, and non-technical assistance related to ongoing projects and service usage.",
+    "metadata": {
+      "category": "support",
+      "department": "Customer Service",
+      "tags": "customer help, inquiries, assistance"
+    }
+  },
+  {
+    "content": "Clients can request project status updates through the customer service team if they do not have direct access to the project management dashboard.",
+    "metadata": {
+      "category": "process",
+      "department": "Customer Service",
+      "tags": "project status, updates, communication"
+    }
+  },
+  {
+    "content": "Webential provides post-launch support for 30 days after project delivery, covering minor fixes, performance checks, and bug resolution.",
+    "metadata": {
+      "category": "policy",
+      "department": "Customer Service",
+      "tags": "post launch, support, policy"
+    }
+  },
+  {
+    "content": "The HR department manages recruitment, onboarding, employee engagement, and internal policy communication for Webential staff.",
+    "metadata": {
+      "category": "hr",
+      "department": "HR",
+      "tags": "human resources, policies, employees"
+    }
+  },
+  {
+    "content": "Webential follows a structured onboarding process for new employees including orientation sessions, technical training, and mentor assignment.",
+    "metadata": {
+      "category": "process",
+      "department": "HR",
+      "tags": "onboarding, training, employees"
+    }
+  },
+  {
+    "content": "Open internship opportunities are available for software development, UI/UX design, and digital marketing students. Internship duration ranges from 3 to 6 months.",
+    "metadata": {
+      "category": "careers",
+      "department": "HR",
+      "tags": "internship, students, hiring"
+    }
+  },
+  {
+    "content": "Billing department handles invoice generation, payment tracking, refunds, and billing disputes. All billing communication should include the invoice number.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "invoices, billing support, payments"
+    }
+  },
+  {
+    "content": "Recurring service invoices are generated on the first day of each month and sent automatically to registered billing email addresses.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "monthly billing, invoices, services"
+    }
+  },
+  {
+    "content": "Webential offers flexible billing arrangements for long-term enterprise clients, including milestone-based and quarterly billing options.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "enterprise billing, flexibility, terms"
+    }
+  },
+  {
+    "content": "General inquiries include questions about company profile, service offerings, partnerships, and business hours.",
+    "metadata": {
+      "category": "general",
+      "department": "General Inquiry",
+      "tags": "company info, inquiries, overview"
+    }
+  },
+  {
+    "content": "Technical support provides guidance for setting up staging environments so clients can safely test changes before pushing updates to the live website.",
+    "metadata": {
+      "category": "deployment",
+      "department": "Technical Support",
+      "tags": "staging, deployment, testing"
+    }
+  },
+  {
+    "content": "Clients experiencing browser compatibility issues can request technical analysis to ensure websites function correctly across Chrome, Firefox, Safari, and Edge.",
+    "metadata": {
+      "category": "compatibility",
+      "department": "Technical Support",
+      "tags": "browsers, compatibility, testing"
+    }
+  },
+  {
+    "content": "Technical support can assist with configuring caching plugins and server-side cache rules to improve website response times.",
+    "metadata": {
+      "category": "performance",
+      "department": "Technical Support",
+      "tags": "caching, performance, optimization"
+    }
+  },
+  {
+    "content": "Billing supports split payments for large projects when approved in advance by the finance team.",
+    "metadata": {
+      "category": "payment",
+      "department": "Billing",
+      "tags": "split payment, finance, approval"
+    }
+  },
+  {
+    "content": "Clients can update their billing contact details by submitting a request through the billing support channel.",
+    "metadata": {
+      "category": "account",
+      "department": "Billing",
+      "tags": "billing contact, account update"
+    }
+  },
+  {
+    "content": "Billing can provide proforma invoices upon request for internal approvals or advance payments.",
+    "metadata": {
+      "category": "invoicing",
+      "department": "Billing",
+      "tags": "proforma invoice, advance payment"
+    }
+  },
+  {
+    "content": "Sales assists clients in selecting the most suitable technology stack based on scalability, performance, and budget requirements.",
+    "metadata": {
+      "category": "consultation",
+      "department": "Sales",
+      "tags": "technology stack, guidance, consultation"
+    }
+  },
+  {
+    "content": "The sales team can prepare comparison documents outlining differences between custom development and template-based solutions.",
+    "metadata": {
+      "category": "documentation",
+      "department": "Sales",
+      "tags": "comparison, custom vs template"
+    }
+  },
+  {
+    "content": "Sales supports clients with upgrade planning when expanding existing systems or adding new modules.",
+    "metadata": {
+      "category": "upgrades",
+      "department": "Sales",
+      "tags": "system upgrade, expansion"
+    }
+  },
+  {
+    "content": "Customer service assists clients with changing primary points of contact during ongoing projects.",
+    "metadata": {
+      "category": "account management",
+      "department": "Customer Service",
+      "tags": "contact update, account support"
+    }
+  },
+  {
+    "content": "Customer service can help schedule follow-up meetings between clients and delivery teams when clarification is needed.",
+    "metadata": {
+      "category": "coordination",
+      "department": "Customer Service",
+      "tags": "meetings, coordination"
+    }
+  },
+  {
+    "content": "Clients may request documentation handover assistance from customer service after project completion.",
+    "metadata": {
+      "category": "handover",
+      "department": "Customer Service",
+      "tags": "documentation, project closure"
+    }
+  },
+  {
+    "content": "HR manages employee certifications and keeps records of completed professional training programs.",
+    "metadata": {
+      "category": "training",
+      "department": "HR",
+      "tags": "certification, training records"
+    }
+  },
+  {
+    "content": "HR oversees internal employee engagement initiatives to maintain team morale and productivity.",
+    "metadata": {
+      "category": "engagement",
+      "department": "HR",
+      "tags": "employee engagement, culture"
+    }
+  },
+  {
+    "content": "HR provides employment verification letters upon formal request by employees.",
+    "metadata": {
+      "category": "documentation",
+      "department": "HR",
+      "tags": "employment verification, HR letters"
+    }
+  },
+  {
+    "content": "General inquiries may include questions about Webential’s sustainability practices and corporate responsibility initiatives.",
+    "metadata": {
+      "category": "company",
+      "department": "General Inquiry",
+      "tags": "sustainability, responsibility"
+    }
+  },
+  {
+    "content": "General inquiry support can share high-level information about Webential’s leadership team and management structure.",
+    "metadata": {
+      "category": "company",
+      "department": "General Inquiry",
+      "tags": "leadership, management"
+    }
+  },
+  {
+    "content": "Visitors can request information about Webential’s event participation, webinars, or industry conferences through general inquiry.",
+    "metadata": {
+      "category": "events",
+      "department": "General Inquiry",
+      "tags": "events, webinars, conferences"
+    }
+  },
+  {
+    "content": "Technical support assists with rollback procedures if a recent deployment introduces unexpected issues.",
+    "metadata": {
+      "category": "deployment",
+      "department": "Technical Support",
+      "tags": "rollback, deployment issues"
+    }
+  },
+  {
+    "content": "Billing can clarify tax-related charges applied to invoices based on regional regulations.",
+    "metadata": {
+      "category": "taxation",
+      "department": "Billing",
+      "tags": "tax, invoice charges"
+    }
+  },
+  {
+    "content": "Sales can advise on phased delivery approaches to reduce initial project costs.",
+    "metadata": {
+      "category": "planning",
+      "department": "Sales",
+      "tags": "phased delivery, cost optimization"
+    }
+  },
+  {
+    "content": "Customer service records and tracks non-technical complaints to ensure appropriate follow-up.",
+    "metadata": {
+      "category": "complaints",
+      "department": "Customer Service",
+      "tags": "complaints, tracking"
+    }
+  },
+  {
+    "content": "HR coordinates internal policy updates and communicates changes to all employees.",
+    "metadata": {
+      "category": "policy",
+      "department": "HR",
+      "tags": "policy update, internal communication"
+    }
+  },
+  {
+    "content": "General inquiry responses may include guidance on how to request a formal proposal or quotation.",
+    "metadata": {
+      "category": "sales guidance",
+      "department": "General Inquiry",
+      "tags": "proposal request, quotation"
+    }
+  },
+  {
+    "content": "Technical support assists with log analysis to identify recurring application or server errors.",
+    "metadata": {
+      "category": "diagnostics",
+      "department": "Technical Support",
+      "tags": "logs, diagnostics, errors"
+    }
+  },
+  {
+    "content": "Billing can temporarily pause recurring invoices upon approved service suspension requests.",
+    "metadata": {
+      "category": "billing control",
+      "department": "Billing",
+      "tags": "invoice pause, service suspension"
+    }
+  },
+  {
+    "content": "Sales provides effort estimation documents to help clients understand resource allocation.",
+    "metadata": {
+      "category": "estimation",
+      "department": "Sales",
+      "tags": "effort estimation, resources"
+    }
+  },
+  {
+    "content": "Customer service can assist with updating delivery preferences for reports and notifications.",
+    "metadata": {
+      "category": "preferences",
+      "department": "Customer Service",
+      "tags": "notifications, preferences"
+    }
+  },
+  {
+    "content": "HR manages internal grievance reporting channels for employees.",
+    "metadata": {
+      "category": "grievance",
+      "department": "HR",
+      "tags": "employee grievance, HR support"
+    }
+  },
+  {
+    "content": "General inquiries may include clarification requests about Webential’s contract engagement models.",
+    "metadata": {
+      "category": "contracts",
+      "department": "General Inquiry",
+      "tags": "engagement models, contracts"
+    }
+  },
+  {
+    "content": "Webential operates globally with clients across the US, UK, Europe, Australia, and Asia, delivering remote-first digital solutions.",
+    "metadata": {
+      "category": "company",
+      "department": "General Inquiry",
+      "tags": "global clients, locations, reach"
+    }
+  },
+  {
+    "content": "Business hours for Webential are Monday to Friday, 9:00 AM to 6:00 PM EST, excluding public holidays.",
+    "metadata": {
+      "category": "company",
+      "department": "General Inquiry",
+      "tags": "business hours, availability"
+    }
+  },
+  {
+    "content": "Webential signs non-disclosure agreements (NDAs) upon request to ensure confidentiality of client data and project information.",
+    "metadata": {
+      "category": "policy",
+      "department": "Sales",
+      "tags": "NDA, confidentiality, legal"
+    }
+  },
+  {
+    "content": "We provide API development and third-party integrations including payment gateways, CRM systems, analytics tools, and marketing platforms.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "API, integrations, development"
+    }
+  },
+  {
+    "content": "Technical audits include performance analysis, security assessment, SEO health check, and infrastructure review with a detailed report.",
+    "metadata": {
+      "category": "audit",
+      "department": "Technical Support",
+      "tags": "audit, performance, security"
+    }
+  },
+  {
+    "content": "Webential offers white-label development services for agencies looking to outsource technical execution under their own brand.",
+    "metadata": {
+      "category": "partnerships",
+      "department": "Sales",
+      "tags": "white label, agencies, partnerships"
+    }
+  },
+  {
+    "content": "Customer feedback is actively reviewed by our service team to improve delivery quality, response times, and user experience.",
+    "metadata": {
+      "category": "feedback",
+      "department": "Customer Service",
+      "tags": "feedback, improvement, quality"
+    }
+  },
+  {
+    "content": "HR handles employee performance reviews on a bi-annual basis, focusing on growth, skill development, and career progression.",
+    "metadata": {
+      "category": "hr",
+      "department": "HR",
+      "tags": "performance review, growth, careers"
+    }
+  },
+  {
+    "content": "Webential offers project discovery workshops to help clients clearly define scope, goals, target users, and technical requirements before development begins.",
+    "metadata": {
+      "category": "process",
+      "department": "Sales",
+      "tags": "discovery, planning, workshops"
+    }
+  },
+  {
+    "content": "Our sales team can provide detailed project proposals including scope, milestones, timelines, and cost breakdowns within 3–5 business days.",
+    "metadata": {
+      "category": "process",
+      "department": "Sales",
+      "tags": "proposal, estimation, sales"
+    }
+  },
+  {
+    "content": "Webential supports multilingual websites with language translation setup and localization for global audiences.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "multilingual, localization, websites"
+    }
+  },
+  {
+    "content": "Technical support assists with SSL certificate installation, renewal, and HTTPS configuration for all hosted websites.",
+    "metadata": {
+      "category": "security",
+      "department": "Technical Support",
+      "tags": "SSL, HTTPS, security"
+    }
+  },
+  {
+    "content": "We monitor hosted websites for uptime and performance issues using automated monitoring tools and alerts.",
+    "metadata": {
+      "category": "monitoring",
+      "department": "Technical Support",
+      "tags": "uptime, monitoring, performance"
+    }
+  },
+  {
+    "content": "Webential provides database optimization services to improve query speed, reduce load times, and enhance scalability.",
+    "metadata": {
+      "category": "optimization",
+      "department": "Technical Support",
+      "tags": "database, optimization, performance"
+    }
+  },
+  {
+    "content": "Customer service can help coordinate communication between clients and internal teams if clarification or follow-ups are required.",
+    "metadata": {
+      "category": "communication",
+      "department": "Customer Service",
+      "tags": "coordination, communication, support"
+    }
+  },
+  {
+    "content": "Clients may submit feedback or feature requests through customer service for review by the product or development teams.",
+    "metadata": {
+      "category": "feedback",
+      "department": "Customer Service",
+      "tags": "feature request, feedback, improvements"
+    }
+  },
+  {
+    "content": "Webential provides clear escalation paths if an issue is not resolved within the expected response timeframe.",
+    "metadata": {
+      "category": "support",
+      "department": "Customer Service",
+      "tags": "escalation, issue resolution, support"
+    }
+  },
+  {
+    "content": "HR manages employee leave policies, including paid leave, sick leave, and holiday schedules.",
+    "metadata": {
+      "category": "hr",
+      "department": "HR",
+      "tags": "leave policy, holidays, employees"
+    }
+  },
+  {
+    "content": "Webential promotes a remote-first work culture with flexible working hours and distributed teams.",
+    "metadata": {
+      "category": "culture",
+      "department": "HR",
+      "tags": "remote work, culture, flexibility"
+    }
+  },
+  {
+    "content": "HR conducts technical and behavioral interviews as part of Webential’s multi-stage hiring process.",
+    "metadata": {
+      "category": "recruitment",
+      "department": "HR",
+      "tags": "interviews, hiring process, recruitment"
+    }
+  },
+  {
+    "content": "Billing can issue revised invoices if there are approved scope changes or billing corrections.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "invoice revision, billing changes"
+    }
+  },
+  {
+    "content": "Sales can assist clients with preparing high-level budget forecasts for upcoming digital initiatives based on projected scope and growth plans.",
+    "metadata": {
+      "category": "forecasting",
+      "department": "Sales",
+      "tags": "budget planning, forecasting, sales support"
+    }
+  },
+  {
+    "content": "All payments processed by Webential are recorded securely and confirmation receipts are shared via email.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "payment confirmation, receipts"
+    }
+  },
+  {
+    "content": "Clients can request billing summaries for accounting or audit purposes from the billing department.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "billing summary, accounting"
+    }
+  },
+  {
+    "content": "General inquiries may include questions about Webential’s technology stack, tools, and development methodologies.",
+    "metadata": {
+      "category": "general",
+      "department": "General Inquiry",
+      "tags": "technology stack, tools, methods"
+    }
+  },
+  {
+    "content": "Webential primarily follows Agile development practices with sprint-based delivery and regular client demos.",
+    "metadata": {
+      "category": "process",
+      "department": "General Inquiry",
+      "tags": "agile, methodology, development"
+    }
+  },
+  {
+    "content": "Potential partners can reach out through the general inquiry channel for collaboration discussions.",
+    "metadata": {
+      "category": "partnerships",
+      "department": "General Inquiry",
+      "tags": "partnership inquiry, collaboration"
+    }
+  },
+  {
+    "content": "Webential offers website accessibility improvements to meet WCAG compliance standards.",
+    "metadata": {
+      "category": "services",
+      "department": "Sales",
+      "tags": "accessibility, WCAG, compliance"
+    }
+  },
+  {
+    "content": "Technical support helps configure email services including SMTP, SPF, DKIM, and DMARC records.",
+    "metadata": {
+      "category": "email",
+      "department": "Technical Support",
+      "tags": "email setup, SMTP, DNS"
+    }
+  },
+  {
+    "content": "Customer service ensures smooth handover between sales and delivery teams once a project is confirmed.",
+    "metadata": {
+      "category": "process",
+      "department": "Customer Service",
+      "tags": "handover, coordination, projects"
+    }
+  },
+  {
+    "content": "HR maintains employee records and ensures compliance with company policies and labor regulations.",
+    "metadata": {
+      "category": "hr",
+      "department": "HR",
+      "tags": "compliance, employee records"
+    }
+  },
+  {
+    "content": "Billing supports multiple currencies for international clients depending on payment method availability.",
+    "metadata": {
+      "category": "billing",
+      "department": "Billing",
+      "tags": "international billing, currency"
+    }
+  },
+  {
+    "content": "General inquiries can also include requests for company presentations, brochures, or capability decks.",
+    "metadata": {
+      "category": "company",
+      "department": "General Inquiry",
+      "tags": "company profile, presentations"
+    }
+  },
+  {
+    "content": "Webential regularly updates its internal tools and workflows to improve efficiency and service quality.",
+    "metadata": {
+      "category": "company",
+      "department": "General Inquiry",
+      "tags": "internal tools, efficiency"
+    }
+  }
+]
